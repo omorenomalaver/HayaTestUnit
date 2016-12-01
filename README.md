@@ -1,0 +1,1 @@
+# HayaTestUnit is a solution when XAMARIN is no working, i mean i need to create a xunit test into a XAMARIN project, but visual studio program stoke since a few week, Although i found a good idea to it works also working with SQLite
